@@ -6,7 +6,7 @@ tags:
   - WCAG
   - color
   - perceivable
----
+--- #00000
 
 {{QuicklinksWithSubPages("Web/Accessibility/Understanding_WCAG")}}
 
